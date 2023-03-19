@@ -14,8 +14,8 @@ I'm 20 years old, currently studying higher mathematics, data analysis and machi
 - Jupyter Notebook
 
 **How to reach me:**
--> Telegram: @nizov_as
--> VK: https://vk.com/nizov_as
+* Telegram: @nizov_as
+* VK: nizov_as
 
 
 <!--
