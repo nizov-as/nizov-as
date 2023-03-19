@@ -3,13 +3,13 @@
 
 I'm 20 years old, currently studying higher mathematics, data analysis and machine learning at CMC MSU.
 
-Stack:
+**Stack:**
 - Python (Pandas, Numpy, SciKit-Learn, Matplotlib, Seaborn)
 - SQL
 - C, C++
 - R
 
-IDE:
+**IDE:**
 - VS Code
 - Jupyter Notebook
 
