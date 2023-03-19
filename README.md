@@ -15,8 +15,6 @@ I'm 20 years old, currently studying higher mathematics, data analysis and machi
 
 **How to reach me:**
 * Telegram: @nizov_as
-* VK: nizov_as
-
 
 <!--
 **nizov-as/nizov-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
