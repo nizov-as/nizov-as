@@ -1,4 +1,7 @@
-### Hi there, I'm Alexander 👋
+### Welcome! 👋
+
+I'm Alexander Nizov. I'm 20, currently studying at CMC MSU and studying higher mathematics, data analysis and machine learning.
+
 
 <!--
 **nizov-as/nizov-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
