@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-I'm Alexander Nizov. I'm 20, currently studying at CMC MSU and studying higher mathematics, data analysis and machine learning.
+I'm Alexander Nizov. I'm 20 years old, currently studying higher mathematics, data analysis and machine learning at CMC MSU.
 
 
 <!--
