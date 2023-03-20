@@ -4,9 +4,9 @@
 
 **Стэк:**
 - Python (Pandas, Numpy, SciKit-Learn, Matplotlib, Seaborn)
+- C, C++
 - SQL
 - R
-- C, C++
 
 
 **Контакты:**
