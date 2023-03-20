@@ -5,8 +5,9 @@
 **Стэк:**
 - Python (Pandas, Numpy, SciKit-Learn, Matplotlib, Seaborn)
 - SQL
-- C, C++
 - R
+- C, C++
+
 
 **Контакты:**
 * [Telegram](https://t.me/nizov_as): @nizov_as
