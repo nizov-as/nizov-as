@@ -8,7 +8,7 @@
 - SQL
 - R
 
-С моими учебными проектами и pet-проектами можно ознакомиться в закреплённом репозитории "CMC-MSU-Practice".
+С моими учебными проектами и pet-проектами можно ознакомиться в закреплённом репозитории "[CMC-MSU-Practice](https://github.com/nizov-as/CMC-MSU-Practice)".
 
 **Контакты:**
 * [Telegram](https://t.me/nizov_as): @nizov_as
