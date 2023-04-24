@@ -8,6 +8,7 @@
 - SQL
 - R
 
+Резюме: [ссылка](https://github.com/nizov-as/CMC-MSU-Practice/blob/main/CV/cv-nizov-alexander.pdf).
 С моими учебными проектами и pet-проектами можно ознакомиться в закреплённом репозитории "[CMC-MSU-Practice](https://github.com/nizov-as/CMC-MSU-Practice)".
 
 **Контакты:**
