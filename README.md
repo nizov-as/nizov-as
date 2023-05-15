@@ -8,7 +8,7 @@
 - SQL
 - R
 
-* [Резюме](https://github.com/nizov-as/CMC-MSU-Practice/tree/main/CV)
+**Резюме: [CV](https://github.com/nizov-as/CMC-MSU-Practice/tree/main/CV)**
 * С моими учебными проектами и pet-проектами можно ознакомиться в закреплённом репозитории "[CMC-MSU-Practice](https://github.com/nizov-as/CMC-MSU-Practice)".
 
 **Контакты:**
