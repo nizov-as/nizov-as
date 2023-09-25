@@ -7,7 +7,6 @@
 **Стэк:**
 - Python (Pandas, Numpy, Matplotlib, Seaborn, Sklearn, XGBoost, PyTorch)
 - SQL (MYSQL, PostgreSQL)
-- C, C++
 - R
 
 **Резюме: [CV](https://github.com/nizov-as/CMC-MSU-Practice/tree/main/CV)**
