@@ -10,11 +10,6 @@
 
 С моими учебными проектами (с периода обучения на ВМК МГУ) можно ознакомиться в закреплённом репозитории "[CMC-MSU-Practice](https://github.com/nizov-as/CMC-MSU-Practice)".
 
-**Стэк:**
-- Python (Pandas, Numpy, Matplotlib, Seaborn, Sklearn, XGBoost, PyTorch)
-- SQL (MYSQL, PostgreSQL)
-- R
-
 **Другие контакты:**
 * [Telegram](https://t.me/nizov_as): @nizov_as
 * E-mail: nizoff.as@yandex.ru
